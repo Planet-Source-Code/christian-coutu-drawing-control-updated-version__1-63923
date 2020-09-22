@@ -1,0 +1,4 @@
+VBGROUP 5.0
+StartupProject=Projet1.vbp
+Project=ObjectDraw.vbp
+Project=ColorPalette.vbp
